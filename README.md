@@ -7,5 +7,3 @@
 My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbtnuwu)](https://github.com/sbtnuwu/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbtnuwu&layout=compact)
