@@ -3,7 +3,9 @@
     <h1 align="center">Hi👋 I'm Sebastian Rakauskas</h1>
     <h3 align="center">I am a 7th year Systems Engineering student and I love programming</h3>
 </div>
----
-### My stats:
+
+My stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbtnuwu)](https://github.com/sbtnuwu/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbtnuwu&layout=compact)
